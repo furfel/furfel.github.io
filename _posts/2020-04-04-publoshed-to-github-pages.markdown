@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Published the site to GitHub Pages
-date: 4 April, 2020
+date: 04-04-2020
 ---
 Today, I managed to push the first version of the webiste to GitHub Pages.
 At first the content was duplicated so I had to remove `markdown: kramdown`
