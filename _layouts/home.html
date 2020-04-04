@@ -10,6 +10,17 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">Latest blog post</h2>
+      {%- assign post = site.posts[0] -%}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ site.posts.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {{ post.excerpt }}
+
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
