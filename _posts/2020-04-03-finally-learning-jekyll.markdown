@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finally learning Jekyll!"
-date: 3rd of April, 2020
+date: 3 April, 2020
 ---
 
 Today I decided to finally learn Jekyll. I have heard about that awesome tool
