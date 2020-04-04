@@ -8,7 +8,10 @@ shortdesc: "A lot of amazing stuff."
 baseurl: ""
 url: "https://furfel.com"
 twitter_username: _local
+twitter:
+  username: _local
 github_username:  furfel
+rss: Atom feed
 
 show_excerpts: true
 
