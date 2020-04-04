@@ -16,7 +16,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
-markdown: kramdown
+#markdown: kramdown
 permalink: /posts/:title
 #paginate: 5
 
