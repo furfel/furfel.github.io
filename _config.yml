@@ -18,7 +18,7 @@ plugins:
   - jekyll-feed
 markdown: kramdown
 permalink: /posts/:title
-paginate: 5
+#paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
