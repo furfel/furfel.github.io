@@ -1,0 +1,23 @@
+.social-media-list .fa {
+    padding-right: 5px;
+    color: #828282;
+}
+
+.site-nav .page-link {
+    padding: 8px 10px;
+    margin: 0px !important;
+}
+
+.site-nav .page-link:hover {
+    background-color: #111111;
+    color: #eeeeee;
+    transition: all 0.2s 0s ease-in;
+}
+
+a.site-title:hover {
+    text-decoration: none;
+}
+
+.social-media-list a:hover {
+    text-decoration: none;
+}
