@@ -7,9 +7,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 shortdesc: "A lot of amazing stuff."
 baseurl: ""
 url: "https://furfel.com"
-twitter_username: _local
+twitter_username: __local
 twitter:
-  username: _local
+  username: __local
 github_username:  furfel
 rss: Atom feed
 
