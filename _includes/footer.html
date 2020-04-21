@@ -20,3 +20,12 @@
   </div>
 
 </footer>
+<div id="cookies">
+	<h5>This website uses cookies <span class="btnok" onclick="close_cookies(true)">I&apos;m ok with that</span> </h5>
+	<p>By continuing you agree for the cookies to be stored in your browser and that your computer will use energy to browse this website. Also remember carbon footprint and to eat your vegetables.</p>
+	<noscript>Without JS you cannot close this message.</noscript>
+	<script type="text/javascript">
+		function close_cookies(addCookie) {if(addCookie) document.cookie = "agreed_to_cookies=true; path=/; max-age=31536000"; document.getElementById("cookies").remove();}
+		if(document.cookie.indexOf("agreed_to_cookies") !== -1) { close_cookies(false); }
+	</script>
+</div>

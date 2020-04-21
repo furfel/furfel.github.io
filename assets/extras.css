@@ -21,3 +21,59 @@ a.site-title:hover {
 .social-media-list a:hover {
     text-decoration: none;
 }
+
+div#cookies {
+    z-index: 200;
+    width: 100%;
+    background-color: rgba(240,240,170,0.9);
+    color: black;
+    padding: 20px 10px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+div#cookies h5 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    padding:0px;
+    color: #111;
+    font-weight:bold;
+    font-size: 12pt;
+}
+
+div#cookies p {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    text-align: justify;
+    font-size: 10pt;
+}
+
+div#cookies span.btnok {
+    border: 1px solid #222;
+    color: #222;
+    background-color: #fbfbfb;
+    padding: 2px;
+    text-decoration: none;
+    font-size: 11pt;
+    margin-right: 12px;
+    float:right;
+}
+
+@media screen and (max-width: 600px){
+   div#cookies p {
+       width: 100%;
+   }
+
+   div#cookies h5 {
+        width: 100%;
+    }
+
+    div#cookies {
+        padding: 10px 5px;
+    }
+}
