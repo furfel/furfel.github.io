@@ -9,7 +9,9 @@ the connection between you and Cloudflare and not Cloudflare and GitHub. Neverth
 (especially no ones for credit cards) so we can safely assume that is enough.
 
 What's more I took part in Ludum Dare 46 Compo with my game Save Ivee. I enjoyed making it with all that
-adrenaline to finish it on time. However, I had to relearn Haxe in order to write it. View the entry [here](https://ldjam.com/events/ludum-dare/46/save-ivee).
+adrenaline to finish it on time. However, I had to relearn Haxe in order to write it.
+
+[View the entry here](https://ldjam.com/events/ludum-dare/46/save-ivee).
 
 ![Save Ivee screenshot](/images/saveiveesmall.jpg)
 
