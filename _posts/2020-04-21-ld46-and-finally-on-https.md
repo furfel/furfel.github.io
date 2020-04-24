@@ -22,5 +22,6 @@ Some of my favorites:
 * [CODE B12](https://ldjam.com/events/ludum-dare/46/code-b12) (just the way it is)
 * [Another f****ng escort mission](https://ldjam.com/events/ludum-dare/46/another-fng-escort-mission) (for the narration)
 * [Tree Sim](https://ldjam.com/events/ludum-dare/46/ludum-dare-46-entry-tree-sim) (aesthetic)
+* [Feed Me!](https://ldjam.com/events/ludum-dare/46/feed-me-3)
 
 See you in LD47!
