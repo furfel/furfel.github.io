@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pp00
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://furfel.com
+  * I am pp00 (https://keybase.io/pp00) on keybase.
+  * I have a public key ASBGMngC_ygMatWK7BRo7ckXxOHVNmNGNjbpJ-srZRCi-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012046327802ff280c6ad58aec1468edc917c4e1d53663463636e927eb2b6510a2f80a",
+      "host": "keybase.io",
+      "kid": "012046327802ff280c6ad58aec1468edc917c4e1d53663463636e927eb2b6510a2f80a",
+      "uid": "b7c189c67623b6b2fea42ebf9cde8019",
+      "username": "pp00"
+    },
+    "merkle_root": {
+      "ctime": 1588531709,
+      "hash": "ed72f7964ade4fe7e5dc86c647b0ff7c7e181752814fccdc4becba1b69ae582152c14825fbce98542e7a4eeb0f0e2789df9cdab5723953f4a702b31afbf913ac",
+      "hash_meta": "1728420a4f6ec0f5f64133d3ba4d638f071cb3f7360a6f426a3b1c6862e8bef6",
+      "seqno": 16144129
+    },
+    "service": {
+      "entropy": "D0YMr3KPfjIe/gakPC2TcpJA",
+      "hostname": "furfel.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588531721,
+  "expire_in": 504576000,
+  "prev": "6e6715dccf440be1fea058ac6a8026d9e2f0b0091ead91461d08d6fe771cac36",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRjJ4Av8oDGrViuwUaO3JF8Th1TZjRjY26SfrK2UQovgKp3BheWxvYWTESpcCC8QgbmcV3M9EC+H+oFisaoAm2eLwsAkerZFGHQjW/nccrDbEIDSDZWthggrqu/WhF4hGoklwP7ZI9q/254wEGfwx5dVjAgHCo3NpZ8RAzz9V0siEAjiyTk0fXAQevCAmMPxFe+NAZmEJZTIVxTuVnD/VBz+faHCu2jAmEcyTx27UIBtvjVYGAueKnDJ4BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHbhjTgW1NayA9hHk+8o5VsozpvKdeissN3rOLH3QFtPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pp00
+
+==================================================================
