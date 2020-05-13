@@ -4,15 +4,53 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">Games</h1>
   </header>
 
   <style type="text/css">
-    img {width: 8em; height: 8em;}
+    img {width: 5em; height: 5em;  margin-top: 1.25rem; margin-left: 1.25rem;}
+    .platform {
+        color: white;
+        font-size: 32pt;
+        position: absolute; right: 1.25rem; top: 1.25rem;
+     }
+    .devicon {
+        position: absolute; right: 1.25rem; top: calc(1.75rem + 32pt);
+        font-size: 32pt;
+        color: white;
+     }
+    .game-card {
+        min-height: 16em;
+    }
+    @media screen and (min-width: 992px) {
+        .game-card {
+            min-height: 20em;
+            border-radius: 0.3em;
+        }
+        img {width: 6em; height: 6em; margin-top: 1.25rem; margin-left: 1.25rem;}
+    }
+    .game-name {
+        text-shadow: 1px 1px 3px rgba(10, 10, 10, 0.8);
+        font-weight: bold;
+        font-family: Jost, sans-serif;
+    }
+    .card-body a.btn, .card-body a.btn:hover {
+        background-color: rgb(230, 230, 230);
+        color: #111;
+        margin: 2px;
+    }
+    .card-body > div {
+        position:absolute; bottom: 1.25rem;
+    }
   </style>
 
   <div class="post-content">
-    {{ content }}
+    <h3 id="here-is-the-list-of-my-games-for-android">Here is the list of some of my works:</h3>
+    <div class="containter">
+    <div class="row">
+        <div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/hydrogens1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/hydrogen.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Hydrogen</p><a href="https://play.google.com/store/apps/details?id=com.furfel.game2demo" role="button" class="btn btn-secondary"><i class="fab fa-google-play"></i> Google Play</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/saveivees1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><i style="" class="platform fab fa-html5"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Save Ivee</p><a href="https://github.com/furfel/LDJam46" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a><a href="https://furfel.itch.io/save-ivee" role="button" class="btn btn-secondary"><i class="fab fa-itch-io"></i> itch.io</a><a href="https://ldjam.com/events/ludum-dare/46/save-ivee/" role="button" class="btn btn-secondary"><i class="fa fa-trophy"></i> LD Entry</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/graveyss1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><i style="" class="platform fab fa-html5"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Gravey’s Dungeon</p><a href="https://github.com/furfel/101GameJam" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a><a href="https://furfel.itch.io/graveys-dungeon" role="button" class="btn btn-secondary"><i class="fab fa-itch-io"></i> itch.io</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/rekts1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/rekt.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">#Rekt 420 MLG Fast Jump</p><a href="https://play.google.com/store/apps/details?id=com.furfel.rekt420mlgfastjump" role="button" class="btn btn-secondary"><i class="fab fa-google-play"></i> Google Play</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/flappys1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/flappy.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Flappy 2048 Cookie Doge Simulator</p><a href="https://play.google.com/store/apps/details?id=com.furfel.whatever" role="button" class="btn btn-secondary"><i class="fab fa-google-play"></i> Google Play</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/cccs1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/ccc.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Cute Coin Catcher</p><a href="https://github.com/furfel/cutecoincatcher" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/lolteroidss1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/lolteroids.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Lolteroids</p><a href="https://github.com/furfel/lolteroids" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/fccs1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><i style="" class="platform fab fa-java"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Fluffy Cloud Candy</p><a href="https://github.com/furfel/Fluffy-Cloud-Candy" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/phurphels1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><img src="/images/phurphel.png" /><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Phurphel Corp</p><a href="https://github.com/furfel/PhurphelCorp" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></div></div></div></div><div class="col-md-6"><div style="background-size: cover; background-position: center center; background-image: url(/images/factorycitys1.jpg); background-repeat: no-repeat" class="game-card card mb-4 shadow-sm"><i style="" class="platform fab fa-android"></i><div class="card-body"><div><p class="h3 game-name" style="color: #fff">Factory City</p><a href="https://github.com/furfel/FactoryCity" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></div></div></div></div>
+    </div>
+    </div>
   </div>
 
 </article>
