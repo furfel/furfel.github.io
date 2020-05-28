@@ -89,14 +89,43 @@ layout: default
     .card-body > div {
         position:absolute; bottom: 1.25rem;
     }
+
+    ul.profilelinks {
+        margin-top: 8px;
+        margin-bottom: 8px;
+        margin-left: 2px;
+        margin-right: 2px;
+        text-align: right;
+        list-style-type: none;
+        display: block;
+    }
+
+    ul.profilelinks li {
+        display: inline;
+    }
+
+    ul.profilelinks li a {
+        color: white;
+    }
+
+    ul.profilelinks li a:hover {
+        color: #cba;
+        transition: 0.25s 0.25s ease-in color;
+    }
   </style>
+
+  <ul class="profilelinks">
+    <li><a href="https://furfel.itch.io" target="_blank" role="button" class="btn btn-secondary"><i class="fab fa-itch-io"></i> itch.io</a></li>
+    <li><a href="https://play.google.com/store/apps/dev?id=8056970146235984514" target="_blank" role="button" class="btn btn-secondary"><i class="fab fa-google-play"></i> Google Play</a></li>
+    <li><a href="https://github.com/furfel" target="_blank" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a></li>
+  </ul>
 
   <div class="post-content">
     <h3 id="here-is-the-list-of-my-games-for-android">Here is the list of some of my works:</h3>
     <div class="containter">
-    <div class="row">
-        $games
-    </div>
+        <div class="row">
+            $games
+        </div>
     </div>
   </div>
 
