@@ -9,7 +9,7 @@ As a high-school kid I used to fake that this company is large. Today,
 I approach the subject in a manner of people who are known on the
 web - I just write it lightly, without much formality.
 
-I used to create games. Nowadays, I am more focused on creating some
+~~I used to create games.~~ I am back to gamedev. Also, I try to create some
 Raspberry Pi projects, writing my masters and learning things of the
 future.
 
