@@ -15,4 +15,4 @@ Yet, I found the jams helping me try out some ideas despite these games were **f
 
 So, where am I going with that? Jams rarely produce releases. But sometimes it's an opportunity if you have zero ideas. Even though, I suggest to always try something new during the jam if the theme doesn't fit you. Just think of any crazy idea, of anything you would like to try out what you have seen in some other game.
 
-Does this sound familiar to you? Tweet me @foorfel or DM me on Discord: furfel#4585.
+Does this sound familiar to you? Tweet me [@foorfel](https://twitter.com/foorfel) or DM me on Discord: furfel#4585.
