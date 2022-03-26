@@ -15,7 +15,7 @@ future.
 
 In 2019 I read 48 books - add me on [Goodreads](https://www.goodreads.com/piotrp94).
 
-I also have a Twitter [@foorfel](https://twitter.com/foorfel).
+I also have a Twitter [@_furfel](https://twitter.com/_furfel).
 And because I try to care about my image, I rarely post there (politics is too tempting).
 
 My Githubs:
