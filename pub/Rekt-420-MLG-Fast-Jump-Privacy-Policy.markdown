@@ -1,4 +1,5 @@
 ---
+title: ""
 menu: none
 exclude: true
 ---
