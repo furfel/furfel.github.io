@@ -1,5 +1,6 @@
 ---
 menu: none
+exclude: true
 ---
 ## Furfel Privacy Policy Policy
 ### For #Rekt 420 MLG Fast Jump
