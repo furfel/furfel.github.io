@@ -1,4 +1,5 @@
 ---
+layout: basic
 title: ""
 menu: none
 exclude: true
