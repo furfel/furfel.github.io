@@ -7,52 +7,71 @@ exclude: true
 ## Furfel Privacy Policy Policy
 ### For #Rekt 420 MLG Fast Jump
 
-*Last update 04 May 2022*
+*Last update 12 December 2024*
 
-This privacy policy will guide you what kind of data Furfel collects, for what reason and how it is
-being used.
+This Privacy Policy explains what kind of data Furfel collects, why it is collected, and how it is used. By using this app, you agree to the terms outlined below.
 
-### 1. Data that is collected
+### 1. Data Collection
 
-We collect just in-game events that you as the user perform. These are screen taps, button clicks,
-achievements unlocked and the time to reach each level in the game (for example achievement of score
-360). The events also may contain basic device information: model, CPU, screen size.
+We collect in-game events that you, as the user, perform. These include:
 
-### 2. Why is data collected and how is it used
+- Screen taps
+- Button clicks
+- Achievements unlocked
+- Time taken to reach each level in the game (e.g., achieving a score of 360).
 
-Thanks to the collected data we are able to model current experience of the players and try to improve
-the gameplay. We do not share your data with anyone else.
-We use Firebase/Google Analytics suite to collect events. The data retention period is the shortest
-possible which is 60 days. All the events are anonymous as much as the SDK lets us. We do not archive
-the data beyond the 60 day period. We only keep aggregated numbers based on longer time periods and only
-if there was enough events to create an average or median.
+Additionally, the collected events may include basic device information such as model, CPU, and screen size.
 
-### 3. Ads
+### 2. Purpose of Data Collection
 
-By default, the ads served by AdMob are **non-personalized**. It might change in the future but for the 
-current moment there is no way to change this behavior.
+The data collected helps us understand player experiences and improve gameplay.
 
-### 4. Contact
+- **Data Sharing**: Your data is not shared with any third parties.
+- **Tools Used**: We use Firebase/Google Analytics to collect events.
+- **Data Retention**: Data is retained for the shortest period possible, which is 60 days. After this period, individual event data is deleted. Aggregated metrics, such as averages or medians, may be retained beyond this period, but only if there is sufficient data to generate meaningful insights.
+- **Anonymization**: We ensure the data is as anonymous as the tools we use allow.
 
-If you want to contact us to get more information or request removal of the data, please write an e-mail
-to hello@furfel.com including your tracking ID copied from the app. This ID can be found in the bottom
-left menu with the Furfel logo. This is the same place where this Privacy Policy can be accessed
-from within the app.
+**Additionally**, if you consent to personalized advertising (described in section 3), our partners may use your interactions with ads, coarse location, IP, and past interactions to serve you personalized ads. You can opt out any time (see section 4).
 
-### 5. Age requirements
+### 3. Advertising
 
-If you are under the age of 13, we kindly ask you to not use the app or contact your parent or guardian
-before continuing. Even with their consent, the app is not directed to youth under 16 years old.
-We cannot confirm that the individual using the app is of the appropriate age. However, in case they
-are not meeting the requirement, we hold right to prevent their access to the app.
+When you first launch the app, you will be presented with a consent form for ad preferences. You can choose between:
 
-### 6. Changes
+- **Personalized Advertising**: Ads tailored to your interests based on interactions with ads, apps, and websites you’ve visited.
+- **Non-Personalized Advertising**: Generic ads that do not consider your browsing behavior.
 
-This privacy policy might change. In case of changes, we would inform the user and give you the
-opportunity to get to know the new privacy policy before using the app.
+You can change your ad preferences later within the app’s settings menu. Ads will not be displayed until you make a selection during the consent process.
+
+### 4. Managing and Deleting Your Data
+
+Access the menu via the Furfel logo (“F”) in the bottom-left corner, where you will find options to manage your data.
+
+You have full control over your data:
+
+- **Deleting Analytics Data**: You can delete your collected analytics data directly within the app.
+- **Copying Your Tracking ID**: Use the same menu to copy your tracking ID, which is necessary for data-related requests if you contact us.
+- **Changing ad consent settings**: You can change your ad consent settings at any time within this menu.
+- **Requesting Assistance**: If you need additional help or want to ensure data removal, contact us at hello@furfel.com, providing your tracking ID for verification.
+
+This menu also provides access to this Privacy Policy.
+
+### 5. Age Requirements
+
+This app is not intended for users under the age of 16.
+
+- If you are under 13, please do not use the app. If you are between 13 and 16, you must have parental or guardian consent to use the app.
+- We reserve the right to restrict access if a user does not meet these age requirements.
+
+### 6. Policy Updates
+
+This Privacy Policy may change over time. In case of updates:
+
+- We will inform users about the changes.
+- You will have the opportunity to review the new Privacy Policy before continuing to use the app.
 
 ### 7. Disagreement
 
-In case you do not agree to the above rules, please use home button to exit the app and use Settings
-app on your Android device in order to uninstall the app.
+If you do not agree with the terms outlined in this Privacy Policy, please:
 
+- Use the home button to exit the app.
+- Uninstall the app through your device’s settings.
