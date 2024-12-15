@@ -7,7 +7,7 @@ exclude: true
 ## Furfel Privacy Policy Policy
 ### For #Rekt 420 MLG Fast Jump
 
-*Last update 12 December 2024*
+*Last update 15 December 2024*
 
 This Privacy Policy explains what kind of data Furfel collects, why it is collected, and how it is used. By using this app, you agree to the terms outlined below.
 
@@ -22,16 +22,28 @@ We collect in-game events that you, as the user, perform. These include:
 
 Additionally, the collected events may include basic device information such as model, CPU, and screen size.
 
-### 2. Purpose of Data Collection
+Advertisers might collect more data based on your interactions with ads or past preferences. You can control data collection (see section 4).
 
-The data collected helps us understand player experiences and improve gameplay.
+### 2. Purpose of Data Collection (Analytics)
 
-- **Data Sharing**: Your data is not shared with any third parties.
+Basic data collection is enabled by default but it's not used for any targeting - rather understanding how you interact with the game in order to improve it with updates. The data collected helps us understand player experiences and improve gameplay.
+
+- **Data Sharing**: Data used for analytics is not shared with third parties. However, data collected when personalized advertising is enabled could be shared.
 - **Tools Used**: We use Firebase/Google Analytics to collect events.
 - **Data Retention**: Data is retained for the shortest period possible, which is 60 days. After this period, individual event data is deleted. Aggregated metrics, such as averages or medians, may be retained beyond this period, but only if there is sufficient data to generate meaningful insights.
 - **Anonymization**: We ensure the data is as anonymous as the tools we use allow.
 
 **Additionally**, if you consent to personalized advertising (described in section 3), our partners may use your interactions with ads, coarse location, IP, and past interactions to serve you personalized ads. You can opt out any time (see section 4).
+
+**Disabling analytics is possible** using the following:
+
+- using the same consent form as for personalized ads,
+    - tap "Furfel" logo in the bottom-left corner in the main menu,
+    - select "Tracking consent",
+- choose "Manage options" button,
+- scroll to the bottom of the page,
+- in "Site or app" section there is "Develop and improve services" switch for Legitimate Interest,
+- you can turn it off to disable analytics.
 
 ### 3. Advertising
 
@@ -51,6 +63,7 @@ You have full control over your data:
 - **Deleting Analytics Data**: You can delete your collected analytics data directly within the app.
 - **Copying Your Tracking ID**: Use the same menu to copy your tracking ID, which is necessary for data-related requests if you contact us.
 - **Changing ad consent settings**: You can change your ad consent settings at any time within this menu.
+- **Changing analytics collection settings**: You can disable analytics using the same consent form as for personalized ads. Choose "Manage options", scroll to the bottom of the page. In "Site or app" section there is "Develop and improve services" switch for Legitimate Interest. You can turn it off to disable analytics.
 - **Requesting Assistance**: If you need additional help or want to ensure data removal, contact us at hello@furfel.com, providing your tracking ID for verification.
 
 This menu also provides access to this Privacy Policy.
